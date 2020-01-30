@@ -7,4 +7,6 @@ comment2.params=gameBoard
 comment2.target=void\ printGameBoard(char[][])
 comment3.params=gameBoard\ pos\ user
 comment3.target=void\ placePiece(char[][],\ int,\ java.lang.String)
-numComments=4
+comment4.params=
+comment4.target=java.lang.String\ checkWinner()
+numComments=5
